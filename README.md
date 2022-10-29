@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @etemi1
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning how to clean data with excel
-- 💞️ I’m looking to collaborate on how to build my portfolio in that
+- 👀 I’m am a data analyst Skilled in Excel, Tableau, Power Bi and SQL
 - 📫 How to reach me etemi4bliss@gmail.com
 
 <!
